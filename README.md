@@ -1,0 +1,2 @@
+# SpotifyDB
+Spotify database project
